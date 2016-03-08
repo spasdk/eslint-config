@@ -1,0 +1,19 @@
+{
+    "name": "spa-eslint-config",
+    "version": "1.4.1",
+    "description": "General-purpose eslint linting rules.",
+    "author": {
+        "name": "Stanislav Kalashnik",
+        "email": "darkpark.main@gmail.com"
+    },
+    "repository": "spasdk/eslint-config",
+    "keywords": [
+        "commonjs",
+        "sdk",
+        "spasdk",
+        "framework",
+        "eslint",
+        "config"
+    ],
+    "license": "GPL-3.0"
+}
