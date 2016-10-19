@@ -12,7 +12,7 @@
         "url": "https://github.com/spasdk/eslint-config.git"
     },
     "dependencies": {
-        "cjs-eslint-config": "cjssdk/eslint-config"
+        "cjs-eslint-config": "1.*.*"
     },
     "keywords": [
         "commonjs",
