@@ -1,6 +1,6 @@
 {
     "name": "spa-eslint-config",
-    "version": "1.4.1",
+    "version": "1.0.1",
     "description": "General-purpose eslint linting rules.",
     "author": {
         "name": "Stanislav Kalashnik",
