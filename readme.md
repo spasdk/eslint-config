@@ -1,8 +1,9 @@
 Adaptation of eslint rules
 ==========================
 
-[![NPM version](https://img.shields.io/npm/v/spa-eslint-config.svg?style=flat-square)](https://www.npmjs.com/package/spa-eslint-config)
-[![Dependencies Status](https://img.shields.io/david/spasdk/eslint-config.svg?style=flat-square)](https://david-dm.org/spasdk/eslint-config)
+[![npm version](https://img.shields.io/npm/v/spa-eslint-config.svg?style=flat-square)](https://www.npmjs.com/package/spa-eslint-config)
+[![dependencies status](https://img.shields.io/david/spasdk/eslint-config.svg?style=flat-square)](https://david-dm.org/spasdk/eslint-config)
+[![devDependencies status](https://img.shields.io/david/dev/spasdk/eslint-config.svg?style=flat-square)](https://david-dm.org/spasdk/eslint-config?type=dev)
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/spasdk)
 
 
