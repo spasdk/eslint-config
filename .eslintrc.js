@@ -20,5 +20,7 @@ module.exports = {
     },
 
     // override any settings from the "parent" configuration
-    rules: {}
+    rules: {    
+        'no-path-concat': 'off'
+    }
 };
